@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8"/>
 	<link rel="stylesheet" href="_css/estilo.css"/>
-	<title>Curso PHP.</title>
+	<title></title>
 </head>
 <body>
 <div>
